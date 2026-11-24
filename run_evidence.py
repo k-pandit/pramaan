@@ -193,6 +193,7 @@ def main():
     # 3e. reviewed answers: withdrawn automatically when a cited clause changes
     rv1 = P.reviewed('Who can sanction the State share of a centrally sponsored scheme', 'official')
     rv2 = P.reviewed('What is the minimum pension', 'official')
+    con.commit()                                      # close the open audit-log transaction before copying the register
     tmp = sqlite3.connect(':memory:')
     con.backup(tmp)
     PT = A.Pramaan(tmp)
