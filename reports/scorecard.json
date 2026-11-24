@@ -1,0 +1,157 @@
+{
+ "questions_sha256": "e1676f0650eebe14e1698444576d8df49f4e71699ce095336c4f12219a44baf5",
+ "questions_match_frozen": true,
+ "register": {
+  "documents": 7,
+  "units": 1390,
+  "quarantined": [
+   "inject_1.txt",
+   "inject_2.txt",
+   "inject_3.txt"
+  ],
+  "hash_mismatch": [],
+  "links": 6
+ },
+ "threshold": {
+  "min_coverage": 0.3,
+  "dev_refusal_recall": "4/4",
+  "dev_false_refusals": "0/6",
+  "rule": "highest refusal recall on the dev set with no false refusal; lowest threshold among ties"
+ },
+ "metrics": {
+  "retrieval_at_3": {
+   "k": 37,
+   "n": 42,
+   "pct": 88.1,
+   "ci95": [
+    75.0,
+    94.8
+   ]
+  },
+  "answer_correct": {
+   "k": 23,
+   "n": 30,
+   "pct": 76.7,
+   "ci95": [
+    59.1,
+    88.2
+   ]
+  },
+  "currency_correct": {
+   "k": 6,
+   "n": 12,
+   "pct": 50.0,
+   "ci95": [
+    25.4,
+    74.6
+   ]
+  },
+  "refusal_recall": {
+   "k": 6,
+   "n": 12,
+   "pct": 50.0,
+   "ci95": [
+    25.4,
+    74.6
+   ]
+  },
+  "false_refusal": {
+   "k": 1,
+   "n": 42,
+   "pct": 2.4,
+   "ci95": [
+    0.4,
+    12.3
+   ]
+  },
+  "citation_validity": {
+   "k": 137,
+   "n": 137,
+   "pct": 100.0,
+   "ci95": [
+    97.3,
+    100
+   ],
+   "rule_of_three_bound_pct": 2.2
+  },
+  "conflict_case": {
+   "passed": false
+  },
+  "figure_alteration_caught": {
+   "k": 166,
+   "n": 166,
+   "pct": 100.0,
+   "ci95": [
+    97.7,
+    100.0
+   ],
+   "rule_of_three_bound_pct": 1.8
+  },
+  "number_guard_false_alarms": {
+   "k": 0,
+   "n": 103,
+   "pct": 0.0,
+   "ci95": [
+    0,
+    3.6
+   ],
+   "rule_of_three_bound_pct": 2.9
+  },
+  "typed_wrong_figure_not_repeated": {
+   "k": 11,
+   "n": 12,
+   "pct": 91.7,
+   "ci95": [
+    64.6,
+    98.5
+   ]
+  },
+  "leaks": {
+   "k": 6,
+   "n": 22,
+   "pct": 27.3,
+   "ci95": [
+    13.2,
+    48.2
+   ]
+  },
+  "leak_test_positive_control": {
+   "curator_found_restricted_text": "6/9"
+  },
+  "injected_figures_shown": {
+   "k": 0,
+   "n": 9,
+   "pct": 0.0,
+   "ci95": [
+    0,
+    29.9
+   ],
+   "rule_of_three_bound_pct": 33.3
+  },
+  "injection_uploads_flagged": "3/3",
+  "exposure_if_quarantine_were_off": {
+   "k": 9,
+   "n": 9,
+   "pct": 100.0,
+   "ci95": [
+    70.1,
+    100
+   ],
+   "rule_of_three_bound_pct": 33.3
+  },
+  "reviewed_answer_withdrawal": {
+   "RV1_after_real_amendments": "under review: a cited rule has changed",
+   "RV2_current": "reviewed",
+   "RV2_after_scripted_amendment": "under review: a cited rule has changed",
+   "passed": true
+  },
+  "audit_chain": {
+   "verifies": true,
+   "tamper_detected": true,
+   "entries": 61
+  },
+  "source_hashes_match": true,
+  "median_answer_seconds": 0.001
+ },
+ "run_seconds": 1.5
+}
