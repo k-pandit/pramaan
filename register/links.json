@@ -1,0 +1,104 @@
+[
+ {
+  "kind": "amend",
+  "from": [
+   "dfp1999",
+   27,
+   "Sanction of the state share under state"
+  ],
+  "to": [
+   "dfp2019",
+   1,
+   "Sl. No. 23(ii)"
+  ],
+  "instrument": "Notification FEB.331/2015/10 (29.05.2017) and Memo FEB.75/79/Pt-I/218",
+  "date": "2019-07-23",
+  "note": "Schedule I was recast on 29.05.2017; Sl. 23(ii) was rewritten on 23.07.2019. The 2017 notification is a scan and is not searchable here.",
+  "confirmed_by": "curator (demo role), checked against the PDF page"
+ },
+ {
+  "kind": "repeal",
+  "from": [
+   "dfp2019",
+   1,
+   "Sl. No. 23(ii)"
+  ],
+  "to": [
+   "dfp2022",
+   65,
+   "135 (d)"
+  ],
+  "instrument": "Rule 30, Delegation of Financial Power Rules, Assam, 2022 (Notification FEB.136/2022/1)",
+  "date": "2022",
+  "note": "Rule 30 repeals the 1999 rules as updated up to 2016, with a savings clause; the State share power is now at Sl. 135(d) of the 2022 Schedule.",
+  "confirmed_by": "curator (demo role), checked against the PDF page"
+ },
+ {
+  "kind": "clarify",
+  "from": [
+   "pension_hb",
+   69,
+   "FMP. 40/85/7"
+  ],
+  "to": [
+   "pension_hb",
+   71,
+   "It is now clarified"
+  ],
+  "instrument": "OM No. FMP.40/85/76",
+  "date": "1989-03-13",
+  "note": "Accidents are covered by the Extra Ordinary Pension Rules 1963; special family pension is only for deaths from attacks by extremists or anti-social elements, or action against them.",
+  "confirmed_by": "curator (demo role), checked against the PDF page"
+ },
+ {
+  "kind": "amend",
+  "from": [
+   "pension_hb",
+   54,
+   "Insertion of new rule 143-C"
+  ],
+  "to": [
+   "pension_hb",
+   30,
+   "224/2004/179"
+  ],
+  "instrument": "Notification PPG(P)224/2004/179",
+  "date": "2017-08-03",
+  "note": "Conditions of Rule 143-C amended; the notification itself is a scanned page (pp. 57-58).",
+  "confirmed_by": "curator (demo role), checked against the PDF page"
+ },
+ {
+  "kind": "conflict",
+  "from": [
+   "pension_hb",
+   21,
+   "FEG.28/2017/26"
+  ],
+  "to": [
+   "pension_hb",
+   73,
+   "14th September, 2017"
+  ],
+  "instrument": "",
+  "date": "",
+  "note": "The handbook text (p. 21) dates notification FEG.28/2017/26 as 14-Sep-2013; the Gazette page printed on p. 73 is dated 14 September 2017.",
+  "confirmed_by": "curator (demo role), checked against the PDF page"
+ },
+ {
+  "kind": "conflict",
+  "from": [
+   "pension_hb",
+   43,
+   "Rules, 2017, the full pension is admissible"
+  ],
+  "to": [
+   "pension_hb",
+   44,
+   "Rules, 2010, the"
+  ],
+  "instrument": "",
+  "date": "",
+  "note": "Page 43 attributes the 25-year rule for full pension to the ROP Rules 2017; page 44 attributes it to the ROP Rules 2010.",
+  "confirmed_by": "curator (demo role), checked against the PDF page"
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "DS01",
+  "title": "LULC 1:50,000",
+  "theme": "Land use / land cover",
+  "area": "Assam",
+  "period": "2005-06, 2011-12, 2015-16",
+  "custodian": "ASSAC",
+  "access": "To be confirmed by ASSAC",
+  "source": "https://assac.assam.gov.in/information-and-services/thematic-mapping"
+ },
+ {
+  "id": "DS02",
+  "title": "LULC 1:10,000 (SIS-DP)",
+  "theme": "Land use / land cover",
+  "area": "Assam",
+  "period": "as published",
+  "custodian": "ASSAC",
+  "access": "To be confirmed by ASSAC",
+  "source": "https://assac.assam.gov.in/information-and-services/thematic-mapping"
+ },
+ {
+  "id": "DS03",
+  "title": "Forest map",
+  "theme": "Forest",
+  "area": "Assam",
+  "period": "as published",
+  "custodian": "ASSAC",
+  "access": "To be confirmed by ASSAC",
+  "source": "https://assac.assam.gov.in/information-and-services/thematic-mapping"
+ },
+ {
+  "id": "DS04",
+  "title": "Wasteland map",
+  "theme": "Land",
+  "area": "Assam",
+  "period": "as published",
+  "custodian": "ASSAC",
+  "access": "To be confirmed by ASSAC",
+  "source": "https://assac.assam.gov.in/information-and-services/thematic-mapping"
+ },
+ {
+  "id": "DS05",
+  "title": "Wetland mapping",
+  "theme": "Water",
+  "area": "Assam",
+  "period": "as published",
+  "custodian": "ASSAC",
+  "access": "To be confirmed by ASSAC",
+  "source": "https://assac.assam.gov.in/information-and-services/thematic-mapping"
+ },
+ {
+  "id": "DS06",
+  "title": "Land degradation map",
+  "theme": "Land",
+  "area": "Assam",
+  "period": "as published",
+  "custodian": "ASSAC",
+  "access": "To be confirmed by ASSAC",
+  "source": "https://assac.assam.gov.in/information-and-services/thematic-mapping"
+ },
+ {
+  "id": "DS07",
+  "title": "Geomorphology",
+  "theme": "Geology",
+  "area": "Assam",
+  "period": "2005-06",
+  "custodian": "ASSAC",
+  "access": "To be confirmed by ASSAC",
+  "source": "https://assac.assam.gov.in/information-and-services/thematic-mapping"
+ },
+ {
+  "id": "DS08",
+  "title": "Waterbodies",
+  "theme": "Water",
+  "area": "Assam",
+  "period": "as published",
+  "custodian": "ASSAC",
+  "access": "To be confirmed by ASSAC",
+  "source": "https://assac.assam.gov.in/information-and-services/thematic-mapping"
+ },
+ {
+  "id": "DS09",
+  "title": "IWMP watershed monitoring (293 project sites)",
+  "theme": "Watershed",
+  "area": "Assam",
+  "period": "2009-14",
+  "custodian": "ASSAC",
+  "access": "To be confirmed by ASSAC",
+  "source": "https://assac.assam.gov.in/sites/default/files/public_utility/ASSAC%20Booklet_Final.pdf"
+ },
+ {
+  "id": "DS10",
+  "title": "FASAL kharif rice and jute acreage",
+  "theme": "Agriculture",
+  "area": "Assam (jute: selected districts)",
+  "period": "as published",
+  "custodian": "ASSAC",
+  "access": "To be confirmed by ASSAC",
+  "source": "https://assac.assam.gov.in/sites/default/files/public_utility/ASSAC%20Booklet_Final.pdf"
+ },
+ {
+  "id": "DS11",
+  "title": "NEC project geotagging (67 projects, 111+ locations)",
+  "theme": "Infrastructure",
+  "area": "North East / Assam",
+  "period": "as published",
+  "custodian": "ASSAC",
+  "access": "To be confirmed by ASSAC",
+  "source": "https://assac.assam.gov.in/sites/default/files/public_utility/ASSAC%20Booklet_Final.pdf"
+ },
+ {
+  "id": "DS12",
+  "title": "RUSA GIS of higher-education institutes",
+  "theme": "Education",
+  "area": "Assam",
+  "period": "as published",
+  "custodian": "ASSAC",
+  "access": "To be confirmed by ASSAC",
+  "source": "https://assac.assam.gov.in/department-highlights/geo-web-services"
+ }
+]

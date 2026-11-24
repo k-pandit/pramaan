@@ -1,0 +1,110 @@
+[
+ {
+  "id": "dfp1999",
+  "file": "dfp1999_2ndedn_2016.pdf",
+  "title": "The Delegation of Financial Power Rules, 1999 (2nd edition, 2016)",
+  "issuer": "Finance Department, Government of Assam",
+  "official_url": "https://finance.assam.gov.in/sites/default/files/The%20Delegation%20of%20Financial%20Power%20Rules%2C%201999%20With%20up-to%20date%20Amendments%20Second%20Edition%2C%202016_0.pdf",
+  "archive_url": "https://web.archive.org/web/20170809162004id_/http://finance.assam.gov.in:80/sites/default/files/The%20Delegation%20of%20Financial%20Power%20Rules,%201999%20With%20up-to%20date%20Amendments%20Second%20Edition,%202016_0.pdf",
+  "tier": "P",
+  "status": "repealed",
+  "note": "Repealed by Rule 30 of the Delegation of Financial Power Rules, Assam, 2022 (Notification FEB.136/2022/1), with a savings clause.",
+  "sha256": "d49f998f0fa36b6034def69253ed1da8dbe6aead6ee4d1f45369b12d25731b01"
+ },
+ {
+  "id": "dfp2019",
+  "file": "dfp1999_partial_amend_dt23-07-2019.pdf",
+  "title": "Partial amendment of Schedule I, DFP Rules 1999 (Memo FEB.75/79/Pt-I/218, 23.07.2019)",
+  "issuer": "Finance (Establishment-B) Department, Government of Assam",
+  "official_url": "https://finance.assam.gov.in/sites/default/files/swf_utility_folder/departments/agriculture_com_oid_2/menu/document/partial_amendments_of_the_delegation_of_financial_power_rules_1999_fileno._feb.75.79.pt_.i.218_dtd.23.07.2019.pdf",
+  "archive_url": "https://web.archive.org/web/20240715101513id_/https://finance.assam.gov.in/sites/default/files/swf_utility_folder/departments/agriculture_com_oid_2/menu/document/partial_amendments_of_the_delegation_of_financial_power_rules_1999_fileno._feb.75.79.pt_.i.218_dtd.23.07.2019.pdf",
+  "tier": "P",
+  "status": "repealed",
+  "note": "Amended the 1999 rules; repealed with them by Rule 30 of the Delegation of Financial Power Rules, Assam, 2022.",
+  "skip_pages": [
+   2
+  ],
+  "sha256": "d8dcd92e932b4c3d412246792d3369927105f715008d3bd205f9243996641f1b"
+ },
+ {
+  "id": "dfp2022",
+  "file": "dfp_rules_2022.pdf",
+  "title": "The Delegation of Financial Power Rules, Assam, 2022 (Notification FEB.136/2022/1)",
+  "issuer": "Finance (Establishment-B) Department, Government of Assam",
+  "official_url": "https://finance.assam.gov.in/sites/default/files/swf_utility_folder/departments/agriculture_com_oid_2/menu/document/delegation_of_financial_powers_rules-2022.pdf",
+  "archive_url": "https://web.archive.org/web/20240301175924id_/https://finance.assam.gov.in/sites/default/files/swf_utility_folder/departments/agriculture_com_oid_2/menu/document/delegation_of_financial_powers_rules-2022.pdf",
+  "tier": "P",
+  "status": "in_force",
+  "note": "In force with immediate effect (Rule 1(2)).",
+  "sha256": "f9f1958769275e334342d0a5f246c3272ef3f80788df40ae9924d8b6c563ccba"
+ },
+ {
+  "id": "pension_hb",
+  "file": "handbook_of_pension.pdf",
+  "title": "Handbook of Pension",
+  "issuer": "Administrative Reforms, Training, Pension & Public Grievances Department, Government of Assam",
+  "official_url": "https://kritagyata.assam.gov.in/NoticeBoard/English/handbook.pdf",
+  "archive_url": null,
+  "tier": "P",
+  "status": "in_force",
+  "note": "Compiled handbook; scanned appendix pages and pages 112-130 (unreadable font) are not searchable in this build.",
+  "skip_pages": [
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130
+  ],
+  "sha256": "f6f793229c47452d2a3d47d24bd5e4b0a17bd76207105f2150150716bbdcd3aa"
+ },
+ {
+  "id": "leave1934",
+  "file": "assac_leave_rules_1934.pdf",
+  "title": "Leave Rules, 1934 (updated copy, \"for information only\")",
+  "issuer": "Copy published on the ASSAC website",
+  "official_url": "https://assac.assam.gov.in/sites/default/files/public_utility/leave_rules.pdf",
+  "archive_url": "https://web.archive.org/web/2024id_/https://assac.assam.gov.in/sites/default/files/public_utility/leave_rules.pdf",
+  "tier": "P",
+  "status": "in_force",
+  "note": "Marked \"for information only\" by the publishing office.",
+  "sha256": "e5f57fd30303746b437967ae2ef57340053c2b650b391c25a6daaf0704930db7"
+ },
+ {
+  "id": "eoffice_sop",
+  "file": "it_sop_eoffice.pdf",
+  "title": "Standard Operating Procedure for e-Office implementation",
+  "issuer": "Information Technology Department, Government of Assam",
+  "official_url": "https://it.assam.gov.in/sites/default/files/public_utility/sop-eoffice.pdf",
+  "archive_url": "https://web.archive.org/web/2024id_/https://it.assam.gov.in/sites/default/files/public_utility/sop-eoffice.pdf",
+  "tier": "P",
+  "status": "in_force",
+  "note": "",
+  "sha256": "1d49761e794c1c3b39035874c802e95ac89bf53a15ce510cd961d875a31384e4"
+ },
+ {
+  "id": "ag_checklist",
+  "file": "cag_pension_checklist.pdf",
+  "title": "Check list for pension cases",
+  "issuer": "Office of the Accountant General (A&E), Assam",
+  "official_url": "https://www.cag.gov.in/uploads/media/Pension-Check-List-20200702103541.pdf",
+  "archive_url": null,
+  "tier": "P",
+  "status": "in_force",
+  "note": "",
+  "sha256": "bd1567be9383a349f37d47f8f1267c7de0db3c69228be4a0841557fe584da8fb"
+ }
+]

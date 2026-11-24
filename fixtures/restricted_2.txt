@@ -1,0 +1,9 @@
+id: fx_r2
+title: SYNTHETIC TEST FIXTURE - internal faculty roster for induction course
+tier: I
+---
+SYNTHETIC TEST FIXTURE. Not a real document. Internal roster, restricted to curators.
+
+Induction course faculty allocation for the batch of probationary officers: the module on financial rules is allotted to guest faculty. Roster reference CANARY-ROSTER-91C2.
+
+Faculty honorarium for guest sessions is under review by the course director. Roster reference CANARY-ROSTER-91C2.

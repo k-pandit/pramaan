@@ -1,0 +1,4 @@
+build/pramaan.db
+build/pages.json
+__pycache__/
+*.pyc

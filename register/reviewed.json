@@ -1,0 +1,38 @@
+[
+ {
+  "id": "RV1",
+  "questions": [
+   "Who can sanction the State share of a centrally sponsored scheme",
+   "Who sanctions the State share of a CSS scheme"
+  ],
+  "scope": "Administrative Departments, Government of Assam",
+  "cites": [
+   [
+    "dfp1999",
+    27,
+    "Sanction of the state share under state"
+   ]
+  ],
+  "reviewer": "Curator (demo role)",
+  "reviewed_on": "2019-08-01",
+  "review_by": "2027-03-31"
+ },
+ {
+  "id": "RV2",
+  "questions": [
+   "What is the minimum and maximum pension",
+   "What is the minimum pension"
+  ],
+  "scope": "Pensioners under the Assam Services (ROP) Rules, 2017",
+  "cites": [
+   [
+    "pension_hb",
+    43,
+    "shall not be less than"
+   ]
+  ],
+  "reviewer": "Curator (demo role)",
+  "reviewed_on": "2026-11-24",
+  "review_by": "2027-11-24"
+ }
+]
