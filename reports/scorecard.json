@@ -107,16 +107,17 @@
    ]
   },
   "leaks": {
-   "k": 6,
+   "k": 0,
    "n": 22,
-   "pct": 27.3,
+   "pct": 0.0,
    "ci95": [
-    13.2,
-    48.2
-   ]
+    0.0,
+    14.9
+   ],
+   "rule_of_three_bound_pct": 13.6
   },
   "leak_test_positive_control": {
-   "curator_found_restricted_text": "6/9"
+   "curator_found_restricted_text": "3/3 restricted documents"
   },
   "injected_figures_shown": {
    "k": 0,
@@ -153,5 +154,5 @@
   "source_hashes_match": true,
   "median_answer_seconds": 0.001
  },
- "run_seconds": 1.5
+ "run_seconds": 1.6
 }

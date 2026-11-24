@@ -139,6 +139,8 @@ class Pramaan:
             res['message'] = 'Not found in the approved documents available to your role. No guess is made; the question goes to the curators\' queue.'
             return self.finish(res, log)
         top = cands[0]
+        if rv and rv['state'] == 'reviewed':              # a current reviewed answer is shown from the passage the curator reviewed
+            top = rv['cites'][0]
         primary, chain = self.forward(top, role)
         units = {}
         if chain:                                         # the top passage was changed: answer from the text in force

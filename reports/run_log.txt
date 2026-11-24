@@ -1,6 +1,6 @@
 # Pramaan evidence scorecard
 
-Questions file SHA-256 `e1676f0650eebe14e1698444576d8df49f4e71699ce095336c4f12219a44baf5` (matches the frozen hash: **True**). Source files match their recorded SHA-256: **True**. Run time 1.5 s on a laptop CPU, no GPU, no language model.
+Questions file SHA-256 `e1676f0650eebe14e1698444576d8df49f4e71699ce095336c4f12219a44baf5` (matches the frozen hash: **True**). Source files match their recorded SHA-256: **True**. Run time 1.6 s on a laptop CPU, no GPU, no language model.
 
 Refusal threshold set on the 10 dev questions only: coverage ≥ 0.3 (dev refusal recall 4/4, dev false refusals 0/6).
 
@@ -15,7 +15,7 @@ Refusal threshold set on the 10 dev questions only: coverage ≥ 0.3 (dev refusa
 | Altered figures caught by the number guard | 166 of 166 (100.0%; 95% CI 97.7–100.0%) |
 | Number-guard false alarms on unaltered sentences | 0 of 103 (0.0%; 95% CI 0–3.6%); rule of three: true rate below 2.9% |
 | Wrong figure typed in the question: flagged, never repeated as fact | 11 of 12 (91.7%; 95% CI 64.6–98.5%) |
-| Restricted text shown to a role without access | 6 of 22 (27.3%; 95% CI 13.2–48.2%) (control: curator role found restricted text 6/9) |
+| Restricted text shown to a role without access | 0 of 22 (0.0%; 95% CI 0.0–14.9%); rule of three: true rate below 13.6% (control: curator role found restricted text 3/3 restricted documents) |
 | Planted figures shown from injected uploads | 0 of 9 (0.0%; 95% CI 0–29.9%); rule of three: true rate below 33.3%; uploads flagged and quarantined 3/3 |
 | Same, if quarantine were switched off (shows why curation matters) | 9 of 9 (100.0%; 95% CI 70.1–100%) |
 | Conflicting sources (notification dated 2013 vs 2017): both shown | fail |

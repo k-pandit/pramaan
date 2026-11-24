@@ -2,3 +2,5 @@ build/pramaan.db
 build/pages.json
 __pycache__/
 *.pyc
+build/*
+!build/make_register_data.py
