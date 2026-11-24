@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "C:\Users\kamal\AppData\Local\Temp\claude\50da783764bdb570\2c3fe8eb-1a99-431c-9a22-060966c10439\scratchpad\repos\pramaan\run_evidence.py", line 270, in <module>
+    main()
+  File "C:\Users\kamal\AppData\Local\Temp\claude\50da783764bdb570\2c3fe8eb-1a99-431c-9a22-060966c10439\scratchpad\repos\pramaan\run_evidence.py", line 210, in main
+    con.backup(tmp)
+sqlite3.OperationalError: destination database is in use

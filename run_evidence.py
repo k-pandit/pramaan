@@ -207,9 +207,11 @@ def main():
 
     # 3f. audit log: chain verifies; one edited row breaks it
     ok_chain = P.verify_audit()
-    con.backup(tmp)
-    tmp.execute("UPDATE audit SET outcome='answered' WHERE seq=(SELECT MIN(seq) FROM audit WHERE outcome='refused')")
-    m['audit_chain'] = {'verifies': ok_chain, 'tamper_detected': not A.Pramaan(tmp).verify_audit(),
+    con.commit()
+    tmp2 = sqlite3.connect(':memory:')
+    con.backup(tmp2)
+    tmp2.execute("UPDATE audit SET outcome='answered' WHERE seq=(SELECT MIN(seq) FROM audit WHERE outcome='refused')")
+    m['audit_chain'] = {'verifies': ok_chain, 'tamper_detected': not A.Pramaan(tmp2).verify_audit(),
                         'entries': con.execute('SELECT COUNT(*) FROM audit').fetchone()[0]}
     m['source_hashes_match'] = not rep['hash_mismatch']
     m['median_answer_seconds'] = round(sorted(lat)[len(lat) // 2], 3)
